@@ -39,7 +39,7 @@
   - **Android APP主要技术：** MVP, RxJava，Retrofit, Picasso, 融云SDK（实现IM功能）, 极光推送等；
   - **Java 微服务主要技术：** SpringBoot, MyBatis, Redis, Nginx, AES加密, RestFul API, token机制等；
   - **其他：** 使用markdown建立wiki文档，编辑整理Java接口文档；
-  - **独立完成：** 封装基础框架，业务开发，性能检测、优化，原型设计等；
+  - **独立完成：** 封装基础框架，业务开发，性能检测、优化，原型设计等；
   - **后话：** Android APP提炼出一个简单的快速开发框架，试过使用该框架2天快速开发一个简单的APP。
   
 3. 美丽元 4.0 APP（10+W 用户量）
